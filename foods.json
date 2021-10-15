@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "breakfast 1",
+        "description": "description 1",
+        "price": 25,
+        "img": "https://i.ibb.co/3kcnpyq/breakfast3.png",
+        "category": "breakfast"
+    },
+    {
+        "id": 2,
+        "title": "breakfast 2",
+        "description": "description 2",
+        "price": 30,
+        "img": "https://i.ibb.co/K2yGRWr/breakfast4.png",
+        "category": "breakfast"
+    },
+    {
+        "id": 3,
+        "title": "breakfast 3",
+        "description": "description 3",
+        "price": 22,
+        "img": "https://i.ibb.co/PQbT4X2/breakfast5.png",
+        "category": "breakfast"
+    },
+    {
+        "id": 4,
+        "title": "breakfast 4",
+        "description": "description 4",
+        "price": 28,
+        "img": "https://i.ibb.co/wRfTHtW/breakfast6.png",
+        "category": "breakfast"
+    },
+    {
+        "id": 5,
+        "title": "breakfast 5",
+        "description": "description 5",
+        "price": 15,
+        "img": "https://i.ibb.co/Ykhsf4N/breakfast1.png",
+        "category": "breakfast"
+    },
+    {
+        "id": 6,
+        "title": "breakfast 6",
+        "description": "description 6",
+        "price": 20,
+        "img": "https://i.ibb.co/X2wMVLS/breakfast2.png",
+        "category": "breakfast"
+    }
+]
